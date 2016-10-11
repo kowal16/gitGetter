@@ -1,0 +1,2 @@
+EEEEEEEEEEEMakarena
+Jestem Wspaniały
