@@ -4,7 +4,11 @@ using namespace std;
 
 int main() {
 
-cout<<"Rafał to syf"<<endl;
+
+
+int a=10;
+cout<<"Hello World "<<a<<endl;
+
 
 return 0;
 
