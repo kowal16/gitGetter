@@ -1,2 +1,2 @@
 EEEEEEEEEEEMakarena
-Jestem Wspaniały
+Jestem Wspanialy 
